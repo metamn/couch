@@ -1,0 +1,3 @@
+development: http://localhost:5984/couch
+test: http://localhost:5984/couch_test
+production: http://localhost:5984/couch_production
